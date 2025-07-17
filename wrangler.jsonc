@@ -1,8 +1,0 @@
-{
-  "name": "media-library",
-  "compatibility_date": "2025-07-17",
-  "assets": {
-    "directory": "./dist/",
-    "not_found_handling": "404-page"
-  }
-}
