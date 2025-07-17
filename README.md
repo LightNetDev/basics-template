@@ -1,5 +1,7 @@
 # Basics Template
 
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/lightnetdev/basics-template)
+
 A minimal LightNet starter with the core structure and configuration, ideal for developers who want full control or to deeply customize.
 
 View it online at [sk8-ministries.pages.dev](https://sk8-ministries.pages.dev/).
