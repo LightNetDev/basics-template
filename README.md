@@ -1,6 +1,7 @@
 # Basics Template
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/lightnetdev/basics-template)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lightnetdev/basics-template)
 
 A minimal LightNet starter with the core structure and configuration, ideal for developers who want full control or to deeply customize.
 
